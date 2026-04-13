@@ -6,9 +6,10 @@
 
 *M.Sc. student @ Weizmann Institute of Science & Product Fitness Associate @ Amp*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pazgrego-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pazgrego/)
-[![Email](https://img.shields.io/badge/Email-paz.grego1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paz.grego1@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Pazgrego?style=flat-square&color=333)](https://github.com/Pazgrego)
+[LinkedIn](https://www.linkedin.com/in/pazgrego/) 
+[Email](mailto:paz.grego1@gmail.com) 
+[GitHub](https://github.com/Pazgrego)
+
 
 </div>
 
