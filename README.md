@@ -54,7 +54,3 @@ I'm a biochemist and product builder working at the intersection of **molecular 
 Mother 👶🏼 | 🏃 Marathon runner | 🏊 Amateur triathlete 
 
 ---
-
-<div align="center">
-<sub>paz.grego1@gmail.com · <a href="https://www.linkedin.com/in/pazgrego/">LinkedIn</a> · <a href="https://github.com/Pazgrego">GitHub</a></sub>
-</div>
