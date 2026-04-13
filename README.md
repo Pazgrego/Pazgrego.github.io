@@ -33,7 +33,7 @@ I'm a biochemist and product builder working at the intersection of **molecular 
 
 | Period | Role | Company |
 |---|---|---|
-| Mar 2024 – Present | Product Fitness Associate | Amp |
+| Mar 2024 – Present | Product Fitness Associate | Amp Fitness |
 | May 2023 – Oct 2023 | Quality & Compliance | Osem Nestlé |
 | Sep 2019 – Sep 2022 | QA Automation Engineer & Scrum Master | Optibus |
 | Aug 2017 – Aug 2019 | QA Engineer (classified unit) | IDF |
@@ -43,6 +43,7 @@ I'm a biochemist and product builder working at the intersection of **molecular 
 ### 🎓 Education
 
 **M.Sc.** — Weizmann Institute of Science *(current)*
+
 **B.Sc. Biochemistry, Food Science & Biotechnology** — Hebrew University of Jerusalem · GPA 90.10 *(2022–2025)*
 
 ---
