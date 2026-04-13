@@ -49,7 +49,7 @@ I'm a biochemist and product builder working at the intersection of **molecular 
 
 ### 🏅 Beyond the lab
 
-🏃 Marathon runner &nbsp;|&nbsp; 🏊 Amateur triathlete &nbsp;|&nbsp; 
+Mother 👶🏼 | 🏃 Marathon runner | 🏊 Amateur triathlete 
 
 ---
 
