@@ -6,9 +6,9 @@
 
 *M.Sc. student @ Weizmann Institute of Science & Product Fitness Associate @ Amp*
 
-[LinkedIn](https://www.linkedin.com/in/pazgrego/) 
-[Email](mailto:paz.grego1@gmail.com) 
-[GitHub](https://github.com/Pazgrego)
+[LinkedIn] (https://www.linkedin.com/in/pazgrego/) 
+[Email] (paz.grego1@gmail.com) 
+[Github] (https://github.com/Pazgrego)
 
 
 </div>
